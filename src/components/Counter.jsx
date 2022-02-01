@@ -12,8 +12,9 @@ export function Counter() {
     <div>
       <h2>{counter}</h2>
       <button type="buttom" onClick={increment}>
-        Incremente
+        Increment
       </button>
+      <button>oi</button>
     </div>
   );
 }
